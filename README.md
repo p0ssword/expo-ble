@@ -887,4 +887,6 @@ const styles = StyleSheet.create({
 
 ## 附录
 
-[]()
+[Github 完整示例代码](https://github.com/p0ssword/expo-ble)
+
+[react-native-ble-manager](https://innoveit.github.io/react-native-ble-manager/)
